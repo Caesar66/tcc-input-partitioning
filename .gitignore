@@ -1,0 +1,13 @@
+/problems.pkl
+/solutions.pkl
+/problems_labs_8_9.pkl
+/solutions_labs_8_9.pkl
+
+/draft*
+/Fig
+/CSV
+/problems/
+/.vscode/
+/.pytest_cache/
+/.ipynb_checkpoints/
+/__pycache__/

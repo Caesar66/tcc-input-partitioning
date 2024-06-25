@@ -1,0 +1,888 @@
+[
+    {
+        "pytest_version": "7.4.2",
+        "$report_type": "SessionStart"
+    },
+    {
+        "nodeid": "",
+        "outcome": "passed",
+        "longrepr": null,
+        "result": null,
+        "sections": [],
+        "$report_type": "CollectReport"
+    },
+    {
+        "nodeid": "test_new_input_804.py",
+        "outcome": "passed",
+        "longrepr": null,
+        "result": null,
+        "sections": [],
+        "$report_type": "CollectReport"
+    },
+    {
+        "nodeid": "test_new_input_804.py::test_filtra_pares[solution-tupla0-output0]",
+        "location": [
+            "../../../tcc-particionamento/tests/804/test_new_input_804.py",
+            15,
+            "test_filtra_pares[solution-tupla0-output0]"
+        ],
+        "keywords": {
+            "test_filtra_pares[solution-tupla0-output0]": 1,
+            "parametrize": 1,
+            "pytestmark": 1,
+            "solution-tupla0-output0": 1,
+            "test_new_input_804.py": 1,
+            "804": 1
+        },
+        "outcome": "passed",
+        "longrepr": null,
+        "when": "setup",
+        "user_properties": [],
+        "sections": [],
+        "duration": 0.0003557269992597867,
+        "start": 1713385790.4878588,
+        "stop": 1713385790.488215,
+        "$report_type": "TestReport"
+    },
+    {
+        "nodeid": "test_new_input_804.py::test_filtra_pares[solution-tupla0-output0]",
+        "location": [
+            "../../../tcc-particionamento/tests/804/test_new_input_804.py",
+            15,
+            "test_filtra_pares[solution-tupla0-output0]"
+        ],
+        "keywords": {
+            "test_filtra_pares[solution-tupla0-output0]": 1,
+            "parametrize": 1,
+            "pytestmark": 1,
+            "solution-tupla0-output0": 1,
+            "test_new_input_804.py": 1,
+            "804": 1
+        },
+        "outcome": "passed",
+        "longrepr": null,
+        "when": "call",
+        "user_properties": [],
+        "sections": [],
+        "duration": 0.0007406609984172974,
+        "start": 1713385790.4883387,
+        "stop": 1713385790.4890797,
+        "$report_type": "TestReport"
+    },
+    {
+        "nodeid": "test_new_input_804.py::test_filtra_pares[solution-tupla0-output0]",
+        "location": [
+            "../../../tcc-particionamento/tests/804/test_new_input_804.py",
+            15,
+            "test_filtra_pares[solution-tupla0-output0]"
+        ],
+        "keywords": {
+            "test_filtra_pares[solution-tupla0-output0]": 1,
+            "parametrize": 1,
+            "pytestmark": 1,
+            "solution-tupla0-output0": 1,
+            "test_new_input_804.py": 1,
+            "804": 1
+        },
+        "outcome": "passed",
+        "longrepr": null,
+        "when": "teardown",
+        "user_properties": [],
+        "sections": [],
+        "duration": 0.00010187599764321931,
+        "start": 1713385790.489191,
+        "stop": 1713385790.4892933,
+        "$report_type": "TestReport"
+    },
+    {
+        "nodeid": "test_new_input_804.py::test_filtra_pares[solution-tupla1-output1]",
+        "location": [
+            "../../../tcc-particionamento/tests/804/test_new_input_804.py",
+            15,
+            "test_filtra_pares[solution-tupla1-output1]"
+        ],
+        "keywords": {
+            "test_filtra_pares[solution-tupla1-output1]": 1,
+            "parametrize": 1,
+            "pytestmark": 1,
+            "solution-tupla1-output1": 1,
+            "test_new_input_804.py": 1,
+            "804": 1
+        },
+        "outcome": "passed",
+        "longrepr": null,
+        "when": "setup",
+        "user_properties": [],
+        "sections": [],
+        "duration": 0.0001953369974216912,
+        "start": 1713385790.4895346,
+        "stop": 1713385790.4897306,
+        "$report_type": "TestReport"
+    },
+    {
+        "nodeid": "test_new_input_804.py::test_filtra_pares[solution-tupla1-output1]",
+        "location": [
+            "../../../tcc-particionamento/tests/804/test_new_input_804.py",
+            15,
+            "test_filtra_pares[solution-tupla1-output1]"
+        ],
+        "keywords": {
+            "test_filtra_pares[solution-tupla1-output1]": 1,
+            "parametrize": 1,
+            "pytestmark": 1,
+            "solution-tupla1-output1": 1,
+            "test_new_input_804.py": 1,
+            "804": 1
+        },
+        "outcome": "failed",
+        "longrepr": {
+            "reprcrash": {
+                "path": "/home/cesar/Documents/tcc-ic/tcc-particionamento-copy/tests/804/solution.py",
+                "lineno": 21,
+                "message": "IndexError: tuple index out of range"
+            },
+            "reprtraceback": {
+                "reprentries": [
+                    {
+                        "type": "ReprEntry",
+                        "data": {
+                            "lines": [],
+                            "reprfuncargs": null,
+                            "reprlocals": null,
+                            "reprfileloc": null,
+                            "style": "no"
+                        }
+                    },
+                    {
+                        "type": "ReprEntry",
+                        "data": {
+                            "lines": [
+                                "E   IndexError: tuple index out of range"
+                            ],
+                            "reprfuncargs": null,
+                            "reprlocals": null,
+                            "reprfileloc": null,
+                            "style": "no"
+                        }
+                    }
+                ],
+                "extraline": null,
+                "style": "no"
+            },
+            "sections": [],
+            "chain": [
+                [
+                    {
+                        "reprentries": [
+                            {
+                                "type": "ReprEntry",
+                                "data": {
+                                    "lines": [],
+                                    "reprfuncargs": null,
+                                    "reprlocals": null,
+                                    "reprfileloc": null,
+                                    "style": "no"
+                                }
+                            },
+                            {
+                                "type": "ReprEntry",
+                                "data": {
+                                    "lines": [
+                                        "E   IndexError: tuple index out of range"
+                                    ],
+                                    "reprfuncargs": null,
+                                    "reprlocals": null,
+                                    "reprfileloc": null,
+                                    "style": "no"
+                                }
+                            }
+                        ],
+                        "extraline": null,
+                        "style": "no"
+                    },
+                    {
+                        "path": "/home/cesar/Documents/tcc-ic/tcc-particionamento-copy/tests/804/solution.py",
+                        "lineno": 21,
+                        "message": "IndexError: tuple index out of range"
+                    },
+                    null
+                ]
+            ]
+        },
+        "when": "call",
+        "user_properties": [],
+        "sections": [],
+        "duration": 0.00011038099910365418,
+        "start": 1713385790.489802,
+        "stop": 1713385790.4899127,
+        "$report_type": "TestReport"
+    },
+    {
+        "nodeid": "test_new_input_804.py::test_filtra_pares[solution-tupla1-output1]",
+        "location": [
+            "../../../tcc-particionamento/tests/804/test_new_input_804.py",
+            15,
+            "test_filtra_pares[solution-tupla1-output1]"
+        ],
+        "keywords": {
+            "test_filtra_pares[solution-tupla1-output1]": 1,
+            "parametrize": 1,
+            "pytestmark": 1,
+            "solution-tupla1-output1": 1,
+            "test_new_input_804.py": 1,
+            "804": 1
+        },
+        "outcome": "passed",
+        "longrepr": null,
+        "when": "teardown",
+        "user_properties": [],
+        "sections": [],
+        "duration": 8.628299838164821e-05,
+        "start": 1713385790.4903975,
+        "stop": 1713385790.4904842,
+        "$report_type": "TestReport"
+    },
+    {
+        "nodeid": "test_new_input_804.py::test_filtra_pares[solution-tupla2-output2]",
+        "location": [
+            "../../../tcc-particionamento/tests/804/test_new_input_804.py",
+            15,
+            "test_filtra_pares[solution-tupla2-output2]"
+        ],
+        "keywords": {
+            "test_filtra_pares[solution-tupla2-output2]": 1,
+            "parametrize": 1,
+            "pytestmark": 1,
+            "solution-tupla2-output2": 1,
+            "test_new_input_804.py": 1,
+            "804": 1
+        },
+        "outcome": "passed",
+        "longrepr": null,
+        "when": "setup",
+        "user_properties": [],
+        "sections": [],
+        "duration": 0.00016783099999884143,
+        "start": 1713385790.490665,
+        "stop": 1713385790.490833,
+        "$report_type": "TestReport"
+    },
+    {
+        "nodeid": "test_new_input_804.py::test_filtra_pares[solution-tupla2-output2]",
+        "location": [
+            "../../../tcc-particionamento/tests/804/test_new_input_804.py",
+            15,
+            "test_filtra_pares[solution-tupla2-output2]"
+        ],
+        "keywords": {
+            "test_filtra_pares[solution-tupla2-output2]": 1,
+            "parametrize": 1,
+            "pytestmark": 1,
+            "solution-tupla2-output2": 1,
+            "test_new_input_804.py": 1,
+            "804": 1
+        },
+        "outcome": "passed",
+        "longrepr": null,
+        "when": "call",
+        "user_properties": [],
+        "sections": [],
+        "duration": 8.859500303515233e-05,
+        "start": 1713385790.4909017,
+        "stop": 1713385790.4909906,
+        "$report_type": "TestReport"
+    },
+    {
+        "nodeid": "test_new_input_804.py::test_filtra_pares[solution-tupla2-output2]",
+        "location": [
+            "../../../tcc-particionamento/tests/804/test_new_input_804.py",
+            15,
+            "test_filtra_pares[solution-tupla2-output2]"
+        ],
+        "keywords": {
+            "test_filtra_pares[solution-tupla2-output2]": 1,
+            "parametrize": 1,
+            "pytestmark": 1,
+            "solution-tupla2-output2": 1,
+            "test_new_input_804.py": 1,
+            "804": 1
+        },
+        "outcome": "passed",
+        "longrepr": null,
+        "when": "teardown",
+        "user_properties": [],
+        "sections": [],
+        "duration": 7.997800275916234e-05,
+        "start": 1713385790.4910617,
+        "stop": 1713385790.491142,
+        "$report_type": "TestReport"
+    },
+    {
+        "nodeid": "test_new_input_804.py::test_filtra_pares[solution-tupla3-output3]",
+        "location": [
+            "../../../tcc-particionamento/tests/804/test_new_input_804.py",
+            15,
+            "test_filtra_pares[solution-tupla3-output3]"
+        ],
+        "keywords": {
+            "test_filtra_pares[solution-tupla3-output3]": 1,
+            "parametrize": 1,
+            "pytestmark": 1,
+            "solution-tupla3-output3": 1,
+            "test_new_input_804.py": 1,
+            "804": 1
+        },
+        "outcome": "passed",
+        "longrepr": null,
+        "when": "setup",
+        "user_properties": [],
+        "sections": [],
+        "duration": 0.00014255199857871048,
+        "start": 1713385790.4913096,
+        "stop": 1713385790.4914527,
+        "$report_type": "TestReport"
+    },
+    {
+        "nodeid": "test_new_input_804.py::test_filtra_pares[solution-tupla3-output3]",
+        "location": [
+            "../../../tcc-particionamento/tests/804/test_new_input_804.py",
+            15,
+            "test_filtra_pares[solution-tupla3-output3]"
+        ],
+        "keywords": {
+            "test_filtra_pares[solution-tupla3-output3]": 1,
+            "parametrize": 1,
+            "pytestmark": 1,
+            "solution-tupla3-output3": 1,
+            "test_new_input_804.py": 1,
+            "804": 1
+        },
+        "outcome": "passed",
+        "longrepr": null,
+        "when": "call",
+        "user_properties": [],
+        "sections": [],
+        "duration": 7.903200094006024e-05,
+        "start": 1713385790.4915092,
+        "stop": 1713385790.4915886,
+        "$report_type": "TestReport"
+    },
+    {
+        "nodeid": "test_new_input_804.py::test_filtra_pares[solution-tupla3-output3]",
+        "location": [
+            "../../../tcc-particionamento/tests/804/test_new_input_804.py",
+            15,
+            "test_filtra_pares[solution-tupla3-output3]"
+        ],
+        "keywords": {
+            "test_filtra_pares[solution-tupla3-output3]": 1,
+            "parametrize": 1,
+            "pytestmark": 1,
+            "solution-tupla3-output3": 1,
+            "test_new_input_804.py": 1,
+            "804": 1
+        },
+        "outcome": "passed",
+        "longrepr": null,
+        "when": "teardown",
+        "user_properties": [],
+        "sections": [],
+        "duration": 6.624500019825064e-05,
+        "start": 1713385790.4916487,
+        "stop": 1713385790.4917154,
+        "$report_type": "TestReport"
+    },
+    {
+        "nodeid": "test_new_input_804.py::test_filtra_pares[solution-tupla4-output4]",
+        "location": [
+            "../../../tcc-particionamento/tests/804/test_new_input_804.py",
+            15,
+            "test_filtra_pares[solution-tupla4-output4]"
+        ],
+        "keywords": {
+            "test_filtra_pares[solution-tupla4-output4]": 1,
+            "parametrize": 1,
+            "pytestmark": 1,
+            "solution-tupla4-output4": 1,
+            "test_new_input_804.py": 1,
+            "804": 1
+        },
+        "outcome": "passed",
+        "longrepr": null,
+        "when": "setup",
+        "user_properties": [],
+        "sections": [],
+        "duration": 0.00013853600103175268,
+        "start": 1713385790.491875,
+        "stop": 1713385790.492014,
+        "$report_type": "TestReport"
+    },
+    {
+        "nodeid": "test_new_input_804.py::test_filtra_pares[solution-tupla4-output4]",
+        "location": [
+            "../../../tcc-particionamento/tests/804/test_new_input_804.py",
+            15,
+            "test_filtra_pares[solution-tupla4-output4]"
+        ],
+        "keywords": {
+            "test_filtra_pares[solution-tupla4-output4]": 1,
+            "parametrize": 1,
+            "pytestmark": 1,
+            "solution-tupla4-output4": 1,
+            "test_new_input_804.py": 1,
+            "804": 1
+        },
+        "outcome": "passed",
+        "longrepr": null,
+        "when": "call",
+        "user_properties": [],
+        "sections": [],
+        "duration": 7.763599933241494e-05,
+        "start": 1713385790.492068,
+        "stop": 1713385790.4921463,
+        "$report_type": "TestReport"
+    },
+    {
+        "nodeid": "test_new_input_804.py::test_filtra_pares[solution-tupla4-output4]",
+        "location": [
+            "../../../tcc-particionamento/tests/804/test_new_input_804.py",
+            15,
+            "test_filtra_pares[solution-tupla4-output4]"
+        ],
+        "keywords": {
+            "test_filtra_pares[solution-tupla4-output4]": 1,
+            "parametrize": 1,
+            "pytestmark": 1,
+            "solution-tupla4-output4": 1,
+            "test_new_input_804.py": 1,
+            "804": 1
+        },
+        "outcome": "passed",
+        "longrepr": null,
+        "when": "teardown",
+        "user_properties": [],
+        "sections": [],
+        "duration": 6.512499749078415e-05,
+        "start": 1713385790.4922051,
+        "stop": 1713385790.4922702,
+        "$report_type": "TestReport"
+    },
+    {
+        "nodeid": "test_new_input_804.py::test_filtra_pares[solution-tupla5-output5]",
+        "location": [
+            "../../../tcc-particionamento/tests/804/test_new_input_804.py",
+            15,
+            "test_filtra_pares[solution-tupla5-output5]"
+        ],
+        "keywords": {
+            "test_filtra_pares[solution-tupla5-output5]": 1,
+            "parametrize": 1,
+            "pytestmark": 1,
+            "solution-tupla5-output5": 1,
+            "test_new_input_804.py": 1,
+            "804": 1
+        },
+        "outcome": "passed",
+        "longrepr": null,
+        "when": "setup",
+        "user_properties": [],
+        "sections": [],
+        "duration": 0.00013619500168715604,
+        "start": 1713385790.4924257,
+        "stop": 1713385790.4925625,
+        "$report_type": "TestReport"
+    },
+    {
+        "nodeid": "test_new_input_804.py::test_filtra_pares[solution-tupla5-output5]",
+        "location": [
+            "../../../tcc-particionamento/tests/804/test_new_input_804.py",
+            15,
+            "test_filtra_pares[solution-tupla5-output5]"
+        ],
+        "keywords": {
+            "test_filtra_pares[solution-tupla5-output5]": 1,
+            "parametrize": 1,
+            "pytestmark": 1,
+            "solution-tupla5-output5": 1,
+            "test_new_input_804.py": 1,
+            "804": 1
+        },
+        "outcome": "failed",
+        "longrepr": {
+            "reprcrash": {
+                "path": "/home/cesar/Documents/tcc-ic/tcc-particionamento/tests/804/test_new_input_804.py",
+                "lineno": 20,
+                "message": "AssertionError: assert -5 == (-2,)\n +  where -5 = <function filtra_pares at 0x7f7854183b50>((-1, -2, -5, -5))\n +    where <function filtra_pares at 0x7f7854183b50> = <module 'solution' from '/home/cesar/Documents/tcc-ic/tcc-particionamento-copy/tests/804/solution.py'>.filtra_pares"
+            },
+            "reprtraceback": {
+                "reprentries": [
+                    {
+                        "type": "ReprEntry",
+                        "data": {
+                            "lines": [
+                                "E   AssertionError: assert -5 == (-2,)",
+                                "     +  where -5 = <function filtra_pares at 0x7f7854183b50>((-1, -2, -5, -5))",
+                                "     +    where <function filtra_pares at 0x7f7854183b50> = <module 'solution' from '/home/cesar/Documents/tcc-ic/tcc-particionamento-copy/tests/804/solution.py'>.filtra_pares"
+                            ],
+                            "reprfuncargs": null,
+                            "reprlocals": null,
+                            "reprfileloc": null,
+                            "style": "no"
+                        }
+                    }
+                ],
+                "extraline": null,
+                "style": "no"
+            },
+            "sections": [],
+            "chain": [
+                [
+                    {
+                        "reprentries": [
+                            {
+                                "type": "ReprEntry",
+                                "data": {
+                                    "lines": [
+                                        "E   AssertionError: assert -5 == (-2,)",
+                                        "     +  where -5 = <function filtra_pares at 0x7f7854183b50>((-1, -2, -5, -5))",
+                                        "     +    where <function filtra_pares at 0x7f7854183b50> = <module 'solution' from '/home/cesar/Documents/tcc-ic/tcc-particionamento-copy/tests/804/solution.py'>.filtra_pares"
+                                    ],
+                                    "reprfuncargs": null,
+                                    "reprlocals": null,
+                                    "reprfileloc": null,
+                                    "style": "no"
+                                }
+                            }
+                        ],
+                        "extraline": null,
+                        "style": "no"
+                    },
+                    {
+                        "path": "/home/cesar/Documents/tcc-ic/tcc-particionamento/tests/804/test_new_input_804.py",
+                        "lineno": 20,
+                        "message": "AssertionError: assert -5 == (-2,)\n +  where -5 = <function filtra_pares at 0x7f7854183b50>((-1, -2, -5, -5))\n +    where <function filtra_pares at 0x7f7854183b50> = <module 'solution' from '/home/cesar/Documents/tcc-ic/tcc-particionamento-copy/tests/804/solution.py'>.filtra_pares"
+                    },
+                    null
+                ]
+            ]
+        },
+        "when": "call",
+        "user_properties": [],
+        "sections": [],
+        "duration": 0.0001772760006133467,
+        "start": 1713385790.492621,
+        "stop": 1713385790.4927988,
+        "$report_type": "TestReport"
+    },
+    {
+        "nodeid": "test_new_input_804.py::test_filtra_pares[solution-tupla5-output5]",
+        "location": [
+            "../../../tcc-particionamento/tests/804/test_new_input_804.py",
+            15,
+            "test_filtra_pares[solution-tupla5-output5]"
+        ],
+        "keywords": {
+            "test_filtra_pares[solution-tupla5-output5]": 1,
+            "parametrize": 1,
+            "pytestmark": 1,
+            "solution-tupla5-output5": 1,
+            "test_new_input_804.py": 1,
+            "804": 1
+        },
+        "outcome": "passed",
+        "longrepr": null,
+        "when": "teardown",
+        "user_properties": [],
+        "sections": [],
+        "duration": 8.0568999692332e-05,
+        "start": 1713385790.493177,
+        "stop": 1713385790.493258,
+        "$report_type": "TestReport"
+    },
+    {
+        "nodeid": "test_new_input_804.py::test_filtra_pares[solution-tupla6-output6]",
+        "location": [
+            "../../../tcc-particionamento/tests/804/test_new_input_804.py",
+            15,
+            "test_filtra_pares[solution-tupla6-output6]"
+        ],
+        "keywords": {
+            "test_filtra_pares[solution-tupla6-output6]": 1,
+            "parametrize": 1,
+            "pytestmark": 1,
+            "solution-tupla6-output6": 1,
+            "test_new_input_804.py": 1,
+            "804": 1
+        },
+        "outcome": "passed",
+        "longrepr": null,
+        "when": "setup",
+        "user_properties": [],
+        "sections": [],
+        "duration": 0.0001494429998274427,
+        "start": 1713385790.4934227,
+        "stop": 1713385790.493573,
+        "$report_type": "TestReport"
+    },
+    {
+        "nodeid": "test_new_input_804.py::test_filtra_pares[solution-tupla6-output6]",
+        "location": [
+            "../../../tcc-particionamento/tests/804/test_new_input_804.py",
+            15,
+            "test_filtra_pares[solution-tupla6-output6]"
+        ],
+        "keywords": {
+            "test_filtra_pares[solution-tupla6-output6]": 1,
+            "parametrize": 1,
+            "pytestmark": 1,
+            "solution-tupla6-output6": 1,
+            "test_new_input_804.py": 1,
+            "804": 1
+        },
+        "outcome": "passed",
+        "longrepr": null,
+        "when": "call",
+        "user_properties": [],
+        "sections": [],
+        "duration": 8.195100235752761e-05,
+        "start": 1713385790.49363,
+        "stop": 1713385790.4937122,
+        "$report_type": "TestReport"
+    },
+    {
+        "nodeid": "test_new_input_804.py::test_filtra_pares[solution-tupla6-output6]",
+        "location": [
+            "../../../tcc-particionamento/tests/804/test_new_input_804.py",
+            15,
+            "test_filtra_pares[solution-tupla6-output6]"
+        ],
+        "keywords": {
+            "test_filtra_pares[solution-tupla6-output6]": 1,
+            "parametrize": 1,
+            "pytestmark": 1,
+            "solution-tupla6-output6": 1,
+            "test_new_input_804.py": 1,
+            "804": 1
+        },
+        "outcome": "passed",
+        "longrepr": null,
+        "when": "teardown",
+        "user_properties": [],
+        "sections": [],
+        "duration": 7.237499812617898e-05,
+        "start": 1713385790.4937754,
+        "stop": 1713385790.493848,
+        "$report_type": "TestReport"
+    },
+    {
+        "nodeid": "test_new_input_804.py::test_filtra_pares[solution-tupla7-output7]",
+        "location": [
+            "../../../tcc-particionamento/tests/804/test_new_input_804.py",
+            15,
+            "test_filtra_pares[solution-tupla7-output7]"
+        ],
+        "keywords": {
+            "test_filtra_pares[solution-tupla7-output7]": 1,
+            "parametrize": 1,
+            "pytestmark": 1,
+            "solution-tupla7-output7": 1,
+            "test_new_input_804.py": 1,
+            "804": 1
+        },
+        "outcome": "passed",
+        "longrepr": null,
+        "when": "setup",
+        "user_properties": [],
+        "sections": [],
+        "duration": 0.00015278699720511213,
+        "start": 1713385790.494013,
+        "stop": 1713385790.4941664,
+        "$report_type": "TestReport"
+    },
+    {
+        "nodeid": "test_new_input_804.py::test_filtra_pares[solution-tupla7-output7]",
+        "location": [
+            "../../../tcc-particionamento/tests/804/test_new_input_804.py",
+            15,
+            "test_filtra_pares[solution-tupla7-output7]"
+        ],
+        "keywords": {
+            "test_filtra_pares[solution-tupla7-output7]": 1,
+            "parametrize": 1,
+            "pytestmark": 1,
+            "solution-tupla7-output7": 1,
+            "test_new_input_804.py": 1,
+            "804": 1
+        },
+        "outcome": "failed",
+        "longrepr": {
+            "reprcrash": {
+                "path": "/home/cesar/Documents/tcc-ic/tcc-particionamento/tests/804/test_new_input_804.py",
+                "lineno": 20,
+                "message": "assert (1, 1) == (0, 2)\n  At index 0 diff: 1 != 0\n  Use -v to get more diff"
+            },
+            "reprtraceback": {
+                "reprentries": [
+                    {
+                        "type": "ReprEntry",
+                        "data": {
+                            "lines": [
+                                "E   assert (1, 1) == (0, 2)",
+                                "      At index 0 diff: 1 != 0",
+                                "      Use -v to get more diff"
+                            ],
+                            "reprfuncargs": null,
+                            "reprlocals": null,
+                            "reprfileloc": null,
+                            "style": "no"
+                        }
+                    }
+                ],
+                "extraline": null,
+                "style": "no"
+            },
+            "sections": [],
+            "chain": [
+                [
+                    {
+                        "reprentries": [
+                            {
+                                "type": "ReprEntry",
+                                "data": {
+                                    "lines": [
+                                        "E   assert (1, 1) == (0, 2)",
+                                        "      At index 0 diff: 1 != 0",
+                                        "      Use -v to get more diff"
+                                    ],
+                                    "reprfuncargs": null,
+                                    "reprlocals": null,
+                                    "reprfileloc": null,
+                                    "style": "no"
+                                }
+                            }
+                        ],
+                        "extraline": null,
+                        "style": "no"
+                    },
+                    {
+                        "path": "/home/cesar/Documents/tcc-ic/tcc-particionamento/tests/804/test_new_input_804.py",
+                        "lineno": 20,
+                        "message": "assert (1, 1) == (0, 2)\n  At index 0 diff: 1 != 0\n  Use -v to get more diff"
+                    },
+                    null
+                ]
+            ]
+        },
+        "when": "call",
+        "user_properties": [],
+        "sections": [],
+        "duration": 0.00017193899839185178,
+        "start": 1713385790.4942303,
+        "stop": 1713385790.4944026,
+        "$report_type": "TestReport"
+    },
+    {
+        "nodeid": "test_new_input_804.py::test_filtra_pares[solution-tupla7-output7]",
+        "location": [
+            "../../../tcc-particionamento/tests/804/test_new_input_804.py",
+            15,
+            "test_filtra_pares[solution-tupla7-output7]"
+        ],
+        "keywords": {
+            "test_filtra_pares[solution-tupla7-output7]": 1,
+            "parametrize": 1,
+            "pytestmark": 1,
+            "solution-tupla7-output7": 1,
+            "test_new_input_804.py": 1,
+            "804": 1
+        },
+        "outcome": "passed",
+        "longrepr": null,
+        "when": "teardown",
+        "user_properties": [],
+        "sections": [],
+        "duration": 7.949700011522509e-05,
+        "start": 1713385790.4947548,
+        "stop": 1713385790.494835,
+        "$report_type": "TestReport"
+    },
+    {
+        "nodeid": "test_new_input_804.py::test_filtra_pares[solution-tupla8-output8]",
+        "location": [
+            "../../../tcc-particionamento/tests/804/test_new_input_804.py",
+            15,
+            "test_filtra_pares[solution-tupla8-output8]"
+        ],
+        "keywords": {
+            "test_filtra_pares[solution-tupla8-output8]": 1,
+            "parametrize": 1,
+            "pytestmark": 1,
+            "solution-tupla8-output8": 1,
+            "test_new_input_804.py": 1,
+            "804": 1
+        },
+        "outcome": "passed",
+        "longrepr": null,
+        "when": "setup",
+        "user_properties": [],
+        "sections": [],
+        "duration": 0.00023363799846265465,
+        "start": 1713385790.4949987,
+        "stop": 1713385790.495233,
+        "$report_type": "TestReport"
+    },
+    {
+        "nodeid": "test_new_input_804.py::test_filtra_pares[solution-tupla8-output8]",
+        "location": [
+            "../../../tcc-particionamento/tests/804/test_new_input_804.py",
+            15,
+            "test_filtra_pares[solution-tupla8-output8]"
+        ],
+        "keywords": {
+            "test_filtra_pares[solution-tupla8-output8]": 1,
+            "parametrize": 1,
+            "pytestmark": 1,
+            "solution-tupla8-output8": 1,
+            "test_new_input_804.py": 1,
+            "804": 1
+        },
+        "outcome": "passed",
+        "longrepr": null,
+        "when": "call",
+        "user_properties": [],
+        "sections": [],
+        "duration": 9.065400081453845e-05,
+        "start": 1713385790.4953015,
+        "stop": 1713385790.4953923,
+        "$report_type": "TestReport"
+    },
+    {
+        "nodeid": "test_new_input_804.py::test_filtra_pares[solution-tupla8-output8]",
+        "location": [
+            "../../../tcc-particionamento/tests/804/test_new_input_804.py",
+            15,
+            "test_filtra_pares[solution-tupla8-output8]"
+        ],
+        "keywords": {
+            "test_filtra_pares[solution-tupla8-output8]": 1,
+            "parametrize": 1,
+            "pytestmark": 1,
+            "solution-tupla8-output8": 1,
+            "test_new_input_804.py": 1,
+            "804": 1
+        },
+        "outcome": "passed",
+        "longrepr": null,
+        "when": "teardown",
+        "user_properties": [],
+        "sections": [],
+        "duration": 7.293599992408417e-05,
+        "start": 1713385790.4954612,
+        "stop": 1713385790.4955347,
+        "$report_type": "TestReport"
+    },
+    {
+        "exitstatus": 1,
+        "$report_type": "SessionFinish"
+    }
+]
